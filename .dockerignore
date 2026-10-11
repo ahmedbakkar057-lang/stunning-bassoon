@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+.git/
+.gitignore
+.env
+.env.*
+panel_data/
+users_data/
+backups/
+temp/
+*.json
+.secret_key
+panel_full.zip
